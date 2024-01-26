@@ -1,0 +1,39 @@
+Git
+
+to setup gitbash as default terminal on vscode: view+command pallete+choose git bash 
+
+command line interface(cli)
+
+To see all files in a directory: ls
+
+change directory: cd + file name ( ex= '.\1. Full stack web dev\') 
+
+to up and down in different directory: cd .. ( two dotes)
+
+other properties: touch, open, start, rm
+
+to create a new directory file using terminal: mkdir + (name of the file) 
+
+to create a new file inside the newly create directory: touch + file name
+
+to open a file: start + file name
+
+to delete a file indside a directory: rm + file name
+
+to remove a directory iteself: $ rm -r + directory name
+
+to see the entire path: pwd
+
+to find a folder in shortcut: cd+ first few letter + tab
+
+the file looks like this when cd is done: '.\1. Full stack web dev\'
+
+to go back to the default root directory file starting location of terminal : cd + ~ (tilde sign)
+
+to quickt go to a specific space in terminal : alt+ left click
+
+to go start of the file name: alt+a
+
+to go the end fo the file: alt+e
+
+to clear the file : alt +u
