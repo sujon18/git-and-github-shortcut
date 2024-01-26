@@ -37,3 +37,17 @@ to go start of the file name: alt+a
 to go the end fo the file: alt+e
 
 to clear the file : alt +u
+
+to git inside a directory: git init 
+
+to see all the hidden files where we git: ls -a 
+
+to see the status of git: git + status
+
+to clear the whole terminal date just type: clear 
+
+to add file to track by using git bash for diffferent stages: git add + file name 
+
+to commit a git file: git commit -m " a message about what it's about"
+
+to see what commit I made : git log 
